@@ -7,3 +7,7 @@ Analytics portfolio and data projects
 
 
 #[Project 2: Predicting population growth in the Arab World using RapidMiner] ( )
+
+
+
+#[Project 3: Global Covid trends using Power BI] ( )
