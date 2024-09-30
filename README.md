@@ -11,3 +11,8 @@ Analytics portfolio and data projects
 
 
 #[Project 3: Global Covid trends using Power BI] ( )
+
+
+
+
+#[Project 4: Sentiment analysis project on amazon fine food reviews using Vader NLTK model] ()
